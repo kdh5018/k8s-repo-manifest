@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: devweb-containers
-        image: kdh5018/devweb:2.0
+        image: kdh5018/devweb:1.0
         ports:
         - containerPort: 80
